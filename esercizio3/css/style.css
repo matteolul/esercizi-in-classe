@@ -1,0 +1,153 @@
+.uno {
+    background-color: blue;
+    height: 850px;
+}
+.due {
+    background-color: white;
+    height: 850px;
+}
+.tre {
+    background-color: gray;
+    height: 850px;
+}
+.quattro {
+    background-color: white;
+    height: 850px;
+}
+.cinque {
+    background-color: gray;
+    height: 850px;
+}
+.sei {
+    background-color: black;
+    height: 850px;
+}
+.logo {
+    height: 70px;
+    background-color: rgba(137, 43, 226, 0.61);
+    width: 79px;
+}
+.login {
+    height: 70px;
+    background-color: blueviolet ;
+    width: 79px;
+}
+.var { 
+        height: 70px;
+        background-color: rgba(137, 43, 226, 0.473);
+        width: 200px;
+}
+.nav {
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+}
+.sinistrauno {
+    height: 250px;
+    width: 250px;
+    background-color: brown;
+}
+.destrauno { 
+    height: 250px;
+    width: 250px;
+    background-color: bisque;
+}
+.container {
+    display: flex;
+}
+.due {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tre {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sinistradue {
+    height: 250px;
+    width: 250px;
+    background-color: aquamarine;
+}
+.destradue {
+    height: 250px;
+    width: 250px;
+    background-color: blanchedalmond;
+}
+.quattro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sinistratre {
+    height: 250px;
+    width: 250px;
+    background-color: burlywood;
+}
+.destratre {
+    height: 250px;
+    width: 250px;
+    background-color: cadetblue;
+}
+.cinque {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containeruno {
+    display: flex;
+    flex-direction:column;
+}
+.sinistraquattro {
+    height: 250px;
+    width: 250px;
+    background-color: greenyellow;
+}
+.destraquattro {
+    height: 250px;
+    width: 250px;
+    background-color: cadetblue;
+}
+.sei {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.containerdue {
+    display: flex;
+    flex-direction:column;
+}
+.sopra {
+    display: flex;
+    justify-content: space-between;
+}
+.scritta {
+    height: 300px;
+    width: 300px;
+    background-color: antiquewhite;
+}
+.scritteuno {
+    height: 300px;
+    width: 300px;
+    background-color: blanchedalmond;
+}
+.scrittedue {
+    height: 300px;
+    width: 300px;
+    background-color: beige;
+}
+.sotto {
+    display: flex;
+    justify-content: space-between;
+}
+.logodue {
+    height: 300px;
+    width: 300px;
+    background-color: blueviolet;
+}
+.logindue {
+    height: 300px;
+    width: 300px;
+    background-color: aquamarine;
+}
